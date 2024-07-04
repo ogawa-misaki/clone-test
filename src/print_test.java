@@ -6,6 +6,7 @@ public class print_test {
 		System.out.println("test");
 
 		System.out.println("フェッチ確認用");
+		System.out.println("プル確認用");
 	}
 
 }
